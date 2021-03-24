@@ -275,7 +275,6 @@ Signed,
 1. Desiree Zamora Garcia (A List Apart)
 1. Devin Buhl
 1. Didier 'OdyX' Raboud (Debian Developer, former Debian Technical Committee chair)
-1. Dieter Maes
 1. Dillon Pentz (OBS Project Developer)
 1. Dimitri John Ledkov (Debian Developer, Ubuntu Core Developer, former member of the SPI Inc board of directors)
 1. Dirk Hohndel
@@ -622,7 +621,6 @@ Signed,
 1. Micah Anderson
 1. Micah E Scott
 1. Michael Bikovitsky
-1. Michael Bond (FSF Associate Member)
 1. Michael Carbone (Qubes OS)
 1. Michael Downey (United Nations Foundation)
 1. Michael Gat
@@ -753,7 +751,6 @@ Signed,
 1. Reuben Morais
 1. Rhonda D'Vine (Debian Developer)
 1. Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
-1. Richard Brown (Former openSUSE Chairman)
 1. Richard Maw
 1. Richard Mehlinger
 1. Richard "RichiH" Hartmann (Debian Developer; ex: freenode & OFTC; FOSDEM, CCC, DebConf); see commit message
@@ -867,6 +864,7 @@ Signed,
 1. TheEvilSkeleton
 1. Theodor Tollersrud
 1. Thierry Carrez (Open Infrastructure Foundation, Python Software Foundation fellow)
+1. Thomas Kluyver (various Python projects)
 1. Thomas Wouters (former GNU contributor)
 1. Thom Chiovoloni
 1. Tianon Gravi
